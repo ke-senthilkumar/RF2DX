@@ -10,4 +10,5 @@ C-Arm images used in Radiotherapy doesnt contain some important tags required fo
 
 Without these data, measuring of length becomes impossible and this program can add these informaton to the existing C-arm images. Meant for Branthytherapy planning but can be used when there is such requirements in other instances too.
 
-Uses component from EvilDICOM.
+Uses component from EvilDICOM. https://github.com/rexcardan/Evil-DICOM
+https://github.com/rexcardan/Evil-DICOM
